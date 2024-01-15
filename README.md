@@ -2,7 +2,7 @@
 ![Personality Description](https://i.pinimg.com/originals/02/f4/ea/02f4ea86d414ab4addc9f38647cc7392.jpg)
 
 ## About Me
-I enjoy rollerblading around me neighborhood and having art nights with friends. Watercolors and acrylics are my current favorite mediums to use, although I studied ceramics in undergrad.
+I enjoy rollerblading around my neighborhood and having art nights with friends. Watercolors and acrylics are my current favorite mediums to use, although I studied ceramics in undergrad.
 
 ## Past Coding Experience
 Back in the day, I could create a pretty great MySpace page with music that force-played. So far this course has involved a lot of new learning.
